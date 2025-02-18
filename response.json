@@ -1,0 +1,501 @@
+{
+    "search_metadata": {
+        "id": "67b3c45581d1619d1a3d3878",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/c4d22276afc028b7/67b3c45581d1619d1a3d3878.json",
+        "created_at": "2025-02-17 23:20:53 UTC",
+        "processed_at": "2025-02-17 23:20:53 UTC",
+        "google_url": "https://www.google.com/search?q=latest+news+in+AI&oq=latest+news+in+AI&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/c4d22276afc028b7/67b3c45581d1619d1a3d3878.html",
+        "total_time_taken": 0.62
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "latest news in AI",
+        "google_domain": "google.com",
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "latest news in AI",
+        "total_results": 3000000000,
+        "time_taken_displayed": 0.41,
+        "organic_results_state": "Results for exact spelling"
+    },
+    "related_questions": [
+        {
+            "question": "What is the latest thing in AI?",
+            "snippet": null,
+            "title": "Latest Trends in Artificial Intelligence",
+            "link": "https://in.element14.com/latest-trends-in-artificial-intelligence",
+            "list": [
+                "Automated AI Development. ... ",
+                "Autonomous Vehicles. ... ",
+                "Incorporating Facial Recognition. ... ",
+                "Convergence of IoT and AI. ... ",
+                "AI in Healthcare. ... ",
+                "Augmented Intelligence. ... ",
+                "Explainable AI. ... ",
+                "Ethical AI. Rising demand for ethical AI is at the top of the list of emerging technology trends."
+            ],
+            "displayed_link": "https://in.element14.com \u203a latest-trends-in-artificial-intelli...",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMLUOd7_vyvPjyChPUhPtu5cRFX-oXprC_SogWOdYvYQ&s",
+            "source_logo": "https://serpapi.com/searches/67b3c45581d1619d1a3d3878/images/091d76fbe30814ba96c6f9e3cc99cbbd79f8e58e392036467de71393d605624b.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdoa1NYZDVlVzgyYTNReFJITlFaRzFQZERNMVdUWlRNSGR5UW5weVdYbFNOSFZMVW1SbVlUQktPVmgwYTFaUVIyUTRWR3RwVUUxT0xVdHdhMDF1TURGMVpWOWpVM2RhZEhsMldISlVaMEpyUWs5bFJHMU5ZbTE0VEV4U1VSSVhWbU5UZWxvNGNtRlBOR1Z3TlU1dlVETnhObEJ0UVc4YUlrRkRSRmhNTkcxT1QyMXdhbG8zUWxWTldubDFjMU5TVG1WWFZqSnFZMjlxWjNjIiwiZmN2IjoiMyIsImVpIjoiVmNTelo4cmFPNGVwNU5vUDNxNlBtQW8iLCJxYyI6IkNoRnNZWFJsYzNRZ2JtVjNjeUJwYmlCaGFSQUFmWi1kQ3o4IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBsYXRlc3QgdGhpbmcgaW4gQUk/IiwibGsiOiJHaDUzYUdGMElHbHpJSFJvWlNCc1lYUmxjM1FnZEdocGJtY2dhVzRnWVdrIiwiYnMiOiJjNTJQb1E3Q01CQ0dnNjBaY3FtQU0yem9Ha0ExR0JJOEFYM1p5bnJKNkpMdVJubEFOSktuUWRETWJBWkljSGU1N184dXY5aUotY2tpQTdYQTFrQ05iRnFPSTdrS3lNRjJyOU83VmlCbjRRdUZKQTRpRzN1S3pudmpHRnJpRHBrYUI0SFk5cnBIb25LNUNMX2hhTDJKZFc5RmI4YVBzYnlpSzB6Yl9fWk1aeW9JNjdpeHFXdXFUTHpwOUptb2pWeUZfLUxpS1BKeG4wc3o1TXBZQXp4VmxzRTFRYWV2VEMxbEZqN1NTQU05bmJ3QiIsImlkIjoiZmNfVmNTelo4cmFPNGVwNU5vUDNxNlBtQW9fMyJ9",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdoa1NYZDVlVzgyYTNReFJITlFaRzFQZERNMVdUWlRNSGR5UW5weVdYbFNOSFZMVW1SbVlUQktPVmgwYTFaUVIyUTRWR3RwVUUxT0xVdHdhMDF1TURGMVpWOWpVM2RhZEhsMldISlVaMEpyUWs5bFJHMU5ZbTE0VEV4U1VSSVhWbU5UZWxvNGNtRlBOR1Z3TlU1dlVETnhObEJ0UVc4YUlrRkRSRmhNTkcxT1QyMXdhbG8zUWxWTldubDFjMU5TVG1WWFZqSnFZMjlxWjNjIiwiZmN2IjoiMyIsImVpIjoiVmNTelo4cmFPNGVwNU5vUDNxNlBtQW8iLCJxYyI6IkNoRnNZWFJsYzNRZ2JtVjNjeUJwYmlCaGFSQUFmWi1kQ3o4IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBsYXRlc3QgdGhpbmcgaW4gQUk%2FIiwibGsiOiJHaDUzYUdGMElHbHpJSFJvWlNCc1lYUmxjM1FnZEdocGJtY2dhVzRnWVdrIiwiYnMiOiJjNTJQb1E3Q01CQ0dnNjBaY3FtQU0yem9Ha0ExR0JJOEFYM1p5bnJKNkpMdVJubEFOSktuUWRETWJBWkljSGU1N184dXY5aUotY2tpQTdYQTFrQ05iRnFPSTdrS3lNRjJyOU83VmlCbjRRdUZKQTRpRzN1S3pudmpHRnJpRHBrYUI0SFk5cnBIb25LNUNMX2hhTDJKZFc5RmI4YVBzYnlpSzB6Yl9fWk1aeW9JNjdpeHFXdXFUTHpwOUptb2pWeUZfLUxpS1BKeG4wc3o1TXBZQXp4VmxzRTFRYWV2VEMxbEZqN1NTQU05bmJ3QiIsImlkIjoiZmNfVmNTelo4cmFPNGVwNU5vUDNxNlBtQW9fMyJ9"
+        },
+        {
+            "question": "What is the current situation with AI?",
+            "snippet": "As of now, AI has not fully achieved the Theory of Mind state. While AI systems can process vast amounts of data, recognize patterns, and even engage in sophisticated natural language processing, they lack true comprehension of human emotions, intentions, and consciousness.",
+            "title": "The Current Status Of Artificial Intelligence - All Tech Magazine",
+            "link": "https://alltechmagazine.com/what-is/current-status-of-artificial-intelligence/#:~:text=As%20of%20now%2C%20AI%20has,emotions%2C%20intentions%2C%20and%20consciousness.",
+            "displayed_link": "https://alltechmagazine.com \u203a what-is \u203a current-status-of-...",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAVR5D0lfdVKzsV1iWGZass8AE512_vGRNEmY9APKAeQ&s",
+            "source_logo": "https://serpapi.com/searches/67b3c45581d1619d1a3d3878/images/091d76fbe30814ba96c6f9e3cc99cbbde281d6b89594fb0e754c97b3cdf1c467.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdoa1NYZDVlVzgyYTNReFJITlFaRzFQZERNMVdUWlRNSGR5UW5weVdYbFNOSFZMVW1SbVlUQktPVmgwYTFaUVIyUTRWR3RwVUUxT0xVdHdhMDF1TURGMVpWOWpVM2RhZEhsMldISlVaMEpyUWs5bFJHMU5ZbTE0VEV4U1VSSVhWbU5UZWxvNGNtRlBOR1Z3TlU1dlVETnhObEJ0UVc4YUlrRkRSRmhNTkcxT1QyMXdhbG8zUWxWTldubDFjMU5TVG1WWFZqSnFZMjlxWjNjIiwiZmN2IjoiMyIsImVpIjoiVmNTelo4cmFPNGVwNU5vUDNxNlBtQW8iLCJxYyI6IkNoRnNZWFJsYzNRZ2JtVjNjeUJwYmlCaGFSQUFmWi1kQ3o4IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBjdXJyZW50IHNpdHVhdGlvbiB3aXRoIEFJPyIsImxrIjoiR2lWM2FHRjBJR2x6SUhSb1pTQmpkWEp5Wlc1MElITnBkSFZoZEdsdmJpQjNhWFJvSUdGcCIsImJzIjoiYzUyUG9RN0NNQkNHZzYwWmNxbUFNMnpvR2tBMUdCSThBWDNaeW5ySjZKTHVSbmxBTkpLblFkRE1iQVpJY0hlNTdfOHV2OWlKLWNraUE3WEExa0NOYkZxT0k3a0t5TUYycjlPN1ZpQm40UXVGSkE0aUczdUt6bnZqR0ZyaURwa2FCNEhZOXJwSG9uSzVDTF9oYUwySmRXOUZiOGFQc2J5aUswemJfX1pNWnlvSTY3aXhxV3VxVEx6cDlKbW9qVnlGXy1MaUtQSnhuMHN6NU1wWUF6eFZsc0UxUWFldlRDMWxGajdTU0FNOW5id0IiLCJpZCI6ImZjX1ZjU3paOHJhTzRlcDVOb1AzcTZQbUFvXzMifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdoa1NYZDVlVzgyYTNReFJITlFaRzFQZERNMVdUWlRNSGR5UW5weVdYbFNOSFZMVW1SbVlUQktPVmgwYTFaUVIyUTRWR3RwVUUxT0xVdHdhMDF1TURGMVpWOWpVM2RhZEhsMldISlVaMEpyUWs5bFJHMU5ZbTE0VEV4U1VSSVhWbU5UZWxvNGNtRlBOR1Z3TlU1dlVETnhObEJ0UVc4YUlrRkRSRmhNTkcxT1QyMXdhbG8zUWxWTldubDFjMU5TVG1WWFZqSnFZMjlxWjNjIiwiZmN2IjoiMyIsImVpIjoiVmNTelo4cmFPNGVwNU5vUDNxNlBtQW8iLCJxYyI6IkNoRnNZWFJsYzNRZ2JtVjNjeUJwYmlCaGFSQUFmWi1kQ3o4IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBjdXJyZW50IHNpdHVhdGlvbiB3aXRoIEFJPyIsImxrIjoiR2lWM2FHRjBJR2x6SUhSb1pTQmpkWEp5Wlc1MElITnBkSFZoZEdsdmJpQjNhWFJvSUdGcCIsImJzIjoiYzUyUG9RN0NNQkNHZzYwWmNxbUFNMnpvR2tBMUdCSThBWDNaeW5ySjZKTHVSbmxBTkpLblFkRE1iQVpJY0hlNTdfOHV2OWlKLWNraUE3WEExa0NOYkZxT0k3a0t5TUYycjlPN1ZpQm40UXVGSkE0aUczdUt6bnZqR0ZyaURwa2FCNEhZOXJwSG9uSzVDTF9oYUwySmRXOUZiOGFQc2J5aUswemJfX1pNWnlvSTY3aXhxV3VxVEx6cDlKbW9qVnlGXy1MaUtQSnhuMHN6NU1wWUF6eFZsc0UxUWFldlRDMWxGajdTU0FNOW5id0IiLCJpZCI6ImZjX1ZjU3paOHJhTzRlcDVOb1AzcTZQbUFvXzMifQ%3D%3D"
+        },
+        {
+            "question": "What are the latest advances in artificial intelligence?",
+            "snippet": "New Technologies in AI: Chatbots and Virtual Assistants They provide instant responses to customer inquiries, operate 24/7, and handle routine tasks, resulting in improved customer satisfaction and cost savings for businesses.",
+            "title": "11 New Technologies in AI: All Trends of 2023-2024 - devabit",
+            "link": "https://devabit.com/blog/top-11-new-technologies-in-ai-exploring-the-latest-trends/#:~:text=New%20Technologies%20in%20AI%3A%20Chatbots%20and%20Virtual%20Assistants&text=They%20provide%20instant%20responses%20to,and%20cost%20savings%20for%20businesses.",
+            "displayed_link": "https://devabit.com \u203a blog \u203a top-11-new-technologies-in-...",
+            "source_logo": "https://serpapi.com/searches/67b3c45581d1619d1a3d3878/images/091d76fbe30814ba96c6f9e3cc99cbbd69e0fc91cf14cf445c7dc91b22ccd153.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdoa1NYZDVlVzgyYTNReFJITlFaRzFQZERNMVdUWlRNSGR5UW5weVdYbFNOSFZMVW1SbVlUQktPVmgwYTFaUVIyUTRWR3RwVUUxT0xVdHdhMDF1TURGMVpWOWpVM2RhZEhsMldISlVaMEpyUWs5bFJHMU5ZbTE0VEV4U1VSSVhWbU5UZWxvNGNtRlBOR1Z3TlU1dlVETnhObEJ0UVc4YUlrRkRSRmhNTkcxT1QyMXdhbG8zUWxWTldubDFjMU5TVG1WWFZqSnFZMjlxWjNjIiwiZmN2IjoiMyIsImVpIjoiVmNTelo4cmFPNGVwNU5vUDNxNlBtQW8iLCJxYyI6IkNoRnNZWFJsYzNRZ2JtVjNjeUJwYmlCaGFSQUFmWi1kQ3o4IiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgbGF0ZXN0IGFkdmFuY2VzIGluIGFydGlmaWNpYWwgaW50ZWxsaWdlbmNlPyIsImxrIjoiYzVNeUw4OUlMRkZJTEVwVktNbElWY2hKTEVrdEJuSlR5aEx6a2xPTEZUTHpnRklsbVdtWnlabUpPVUJlU1dwT1RtWjZLbEFPQUEiLCJicyI6ImM1MlBvUTdDTUJDR2c2MFpjcW1BTTJ6b0drQTFHQkk4QVgzWnlucko2Skx1Um5sQU5KS25RZERNYkFaSWNIZTU3Xzh1djlpSi1ja2lBN1hBMWtDTmJGcU9JN2tLeU1GMnI5TzdWaUJuNFF1RkpBNGlHM3VLem52akdGcmlEcGthQjRIWTlycEhvbks1Q0xfaGFMMkpkVzlGYjhhUHNieWlLMHpiX19aTVp5b0k2N2l4cVd1cVRMenA5Sm1valZ5Rl8tTGlLUEp4bjBzejVNcFlBenhWbHNFMVFhZXZUQzFsRmo3U1NBTTluYndCIiwiaWQiOiJmY19WY1N6WjhyYU80ZXA1Tm9QM3E2UG1Bb18zIn0=",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdoa1NYZDVlVzgyYTNReFJITlFaRzFQZERNMVdUWlRNSGR5UW5weVdYbFNOSFZMVW1SbVlUQktPVmgwYTFaUVIyUTRWR3RwVUUxT0xVdHdhMDF1TURGMVpWOWpVM2RhZEhsMldISlVaMEpyUWs5bFJHMU5ZbTE0VEV4U1VSSVhWbU5UZWxvNGNtRlBOR1Z3TlU1dlVETnhObEJ0UVc4YUlrRkRSRmhNTkcxT1QyMXdhbG8zUWxWTldubDFjMU5TVG1WWFZqSnFZMjlxWjNjIiwiZmN2IjoiMyIsImVpIjoiVmNTelo4cmFPNGVwNU5vUDNxNlBtQW8iLCJxYyI6IkNoRnNZWFJsYzNRZ2JtVjNjeUJwYmlCaGFSQUFmWi1kQ3o4IiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgbGF0ZXN0IGFkdmFuY2VzIGluIGFydGlmaWNpYWwgaW50ZWxsaWdlbmNlPyIsImxrIjoiYzVNeUw4OUlMRkZJTEVwVktNbElWY2hKTEVrdEJuSlR5aEx6a2xPTEZUTHpnRklsbVdtWnlabUpPVUJlU1dwT1RtWjZLbEFPQUEiLCJicyI6ImM1MlBvUTdDTUJDR2c2MFpjcW1BTTJ6b0drQTFHQkk4QVgzWnlucko2Skx1Um5sQU5KS25RZERNYkFaSWNIZTU3Xzh1djlpSi1ja2lBN1hBMWtDTmJGcU9JN2tLeU1GMnI5TzdWaUJuNFF1RkpBNGlHM3VLem52akdGcmlEcGthQjRIWTlycEhvbks1Q0xfaGFMMkpkVzlGYjhhUHNieWlLMHpiX19aTVp5b0k2N2l4cVd1cVRMenA5Sm1valZ5Rl8tTGlLUEp4bjBzejVNcFlBenhWbHNFMVFhZXZUQzFsRmo3U1NBTTluYndCIiwiaWQiOiJmY19WY1N6WjhyYU80ZXA1Tm9QM3E2UG1Bb18zIn0%3D"
+        },
+        {
+            "question": "What is the most advanced AI right now?",
+            "snippet": null,
+            "title": "AI Overview",
+            "link": "https://support.google.com/websearch?p=ai_overviews&hl=en",
+            "list": [
+                "AlphaGo: An AI system that uses deep learning to learn and adapt to the game of Go. It defeated the world champion in 2016.\u00a0 ",
+                "Tesla Autopilot: An AI system that uses cameras, radar, and GPS to control a vehicle. It can steer, accelerate, brake, park, and reverse.\u00a0 ",
+                "OpenAI's E3: An AI that can turn text into images.\u00a0 ",
+                "DeepSeek-v3 r1: An open-source reasoning model that can answer questions.\u00a0 ",
+                "OpenAI's o1 family: A reasoning model that can answer questions, especially in academic research, math, or computer science.\u00a0 "
+            ],
+            "displayed_link": null,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb_PVD5Xf04t4lNTVLxLIR6xt4mdUq2Mn4BmwJPPLBoXvost1p2njwbMcG&s",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdoa1NYZDVlVzgyYTNReFJITlFaRzFQZERNMVdUWlRNSGR5UW5weVdYbFNOSFZMVW1SbVlUQktPVmgwYTFaUVIyUTRWR3RwVUUxT0xVdHdhMDF1TURGMVpWOWpVM2RhZEhsMldISlVaMEpyUWs5bFJHMU5ZbTE0VEV4U1VSSVhWbU5UZWxvNGNtRlBOR1Z3TlU1dlVETnhObEJ0UVc4YUlrRkRSRmhNTkcxT1QyMXdhbG8zUWxWTldubDFjMU5TVG1WWFZqSnFZMjlxWjNjIiwiZmN2IjoiMyIsImVpIjoiVmNTelo4cmFPNGVwNU5vUDNxNlBtQW8iLCJxYyI6IkNoRnNZWFJsYzNRZ2JtVjNjeUJwYmlCaGFSQUFmWi1kQ3o4IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBtb3N0IGFkdmFuY2VkIEFJIHJpZ2h0IG5vdz8iLCJsayI6IkdpWjNhR0YwSUdseklIUm9aU0J0YjNOMElHRmtkbUZ1WTJWa0lHRnBJSEpwWjJoMElHNXZkdyIsImJzIjoiYzUyUG9RN0NNQkNHZzYwWmNxbUFNMnpvR2tBMUdCSThBWDNaeW5ySjZKTHVSbmxBTkpLblFkRE1iQVpJY0hlNTdfOHV2OWlKLWNraUE3WEExa0NOYkZxT0k3a0t5TUYycjlPN1ZpQm40UXVGSkE0aUczdUt6bnZqR0ZyaURwa2FCNEhZOXJwSG9uSzVDTF9oYUwySmRXOUZiOGFQc2J5aUswemJfX1pNWnlvSTY3aXhxV3VxVEx6cDlKbW9qVnlGXy1MaUtQSnhuMHN6NU1wWUF6eFZsc0UxUWFldlRDMWxGajdTU0FNOW5id0IiLCJpZCI6ImZjX1ZjU3paOHJhTzRlcDVOb1AzcTZQbUFvXzMifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJRUzFMVkdoa1NYZDVlVzgyYTNReFJITlFaRzFQZERNMVdUWlRNSGR5UW5weVdYbFNOSFZMVW1SbVlUQktPVmgwYTFaUVIyUTRWR3RwVUUxT0xVdHdhMDF1TURGMVpWOWpVM2RhZEhsMldISlVaMEpyUWs5bFJHMU5ZbTE0VEV4U1VSSVhWbU5UZWxvNGNtRlBOR1Z3TlU1dlVETnhObEJ0UVc4YUlrRkRSRmhNTkcxT1QyMXdhbG8zUWxWTldubDFjMU5TVG1WWFZqSnFZMjlxWjNjIiwiZmN2IjoiMyIsImVpIjoiVmNTelo4cmFPNGVwNU5vUDNxNlBtQW8iLCJxYyI6IkNoRnNZWFJsYzNRZ2JtVjNjeUJwYmlCaGFSQUFmWi1kQ3o4IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBtb3N0IGFkdmFuY2VkIEFJIHJpZ2h0IG5vdz8iLCJsayI6IkdpWjNhR0YwSUdseklIUm9aU0J0YjNOMElHRmtkbUZ1WTJWa0lHRnBJSEpwWjJoMElHNXZkdyIsImJzIjoiYzUyUG9RN0NNQkNHZzYwWmNxbUFNMnpvR2tBMUdCSThBWDNaeW5ySjZKTHVSbmxBTkpLblFkRE1iQVpJY0hlNTdfOHV2OWlKLWNraUE3WEExa0NOYkZxT0k3a0t5TUYycjlPN1ZpQm40UXVGSkE0aUczdUt6bnZqR0ZyaURwa2FCNEhZOXJwSG9uSzVDTF9oYUwySmRXOUZiOGFQc2J5aUswemJfX1pNWnlvSTY3aXhxV3VxVEx6cDlKbW9qVnlGXy1MaUtQSnhuMHN6NU1wWUF6eFZsc0UxUWFldlRDMWxGajdTU0FNOW5id0IiLCJpZCI6ImZjX1ZjU3paOHJhTzRlcDVOb1AzcTZQbUFvXzMifQ%3D%3D"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "AI News | Latest AI News, Analysis & Events",
+            "link": "https://www.artificialintelligence-news.com/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.artificialintelligence-news.com/&ved=2ahUKEwiK2eO07MuLAxWHFFkFHV7XA6MQFnoECBUQAQ",
+            "displayed_link": "https://www.artificialintelligence-news.com",
+            "favicon": "https://serpapi.com/searches/67b3c45581d1619d1a3d3878/images/fa9195d9383d7564229022ce394c3e25b473c9770f3439bd3d8f6f49a62870e2.png",
+            "snippet": "AI News reports on the latest artificial intelligence news and insights. Explore industry trends from the frontline of AI.",
+            "snippet_highlighted_words": [
+                "AI News",
+                "latest artificial intelligence news",
+                "AI"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "News",
+                        "link": "https://www.artificialintelligence-news.com/artificial-intelligence-news/"
+                    },
+                    {
+                        "title": "AI regulations",
+                        "link": "https://www.artificialintelligence-news.com/news/preparing-today-for-tomorrows-ai-regulations/"
+                    },
+                    {
+                        "title": "The ongoing AI revolution is...",
+                        "link": "https://www.artificialintelligence-news.com/news/the-ongoing-ai-revolution-is-reshaping-the-world/"
+                    },
+                    {
+                        "title": "AI governance: Analysing...",
+                        "link": "https://www.artificialintelligence-news.com/news/ai-governance-analysing-emerging-global-regulations/"
+                    }
+                ]
+            },
+            "source": "AI News"
+        },
+        {
+            "position": 2,
+            "title": "Artificial Intelligence - Latest AI News and Analysis",
+            "link": "https://www.wsj.com/tech/ai",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.wsj.com/tech/ai&ved=2ahUKEwiK2eO07MuLAxWHFFkFHV7XA6MQFnoECBMQAQ",
+            "displayed_link": "https://www.wsj.com \u203a tech \u203a ai",
+            "favicon": "https://serpapi.com/searches/67b3c45581d1619d1a3d3878/images/fa9195d9383d7564229022ce394c3e25b4fed1d99b188f5c5a9be4ede40d0e37.png",
+            "snippet": "The latest artificial intelligence news coverage focusing on the technology, tools and the companies building AI technology.",
+            "snippet_highlighted_words": [
+                "latest artificial intelligence news",
+                "AI"
+            ],
+            "source": "WSJ"
+        },
+        {
+            "position": 3,
+            "title": "AI News & Artificial Intelligence",
+            "link": "https://techcrunch.com/category/artificial-intelligence/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://techcrunch.com/category/artificial-intelligence/&ved=2ahUKEwiK2eO07MuLAxWHFFkFHV7XA6MQFnoECBYQAQ",
+            "displayed_link": "https://techcrunch.com \u203a category \u203a artificial-intelligence",
+            "favicon": "https://serpapi.com/searches/67b3c45581d1619d1a3d3878/images/fa9195d9383d7564229022ce394c3e25bbae01d7fdb50c6cbb534b693b8595b3.jpeg",
+            "snippet": "Read the latest on artificial intelligence and machine learning tech, the companies that are building them, and the ethical issues AI raises today.",
+            "snippet_highlighted_words": [
+                "latest",
+                "artificial intelligence",
+                "AI"
+            ],
+            "source": "TechCrunch"
+        },
+        {
+            "position": 4,
+            "title": "Artificial intelligence",
+            "link": "https://www.nbcnews.com/artificial-intelligence",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nbcnews.com/artificial-intelligence&ved=2ahUKEwiK2eO07MuLAxWHFFkFHV7XA6MQFnoECBcQAQ",
+            "displayed_link": "https://www.nbcnews.com \u203a artificial-intelligence",
+            "favicon": "https://serpapi.com/searches/67b3c45581d1619d1a3d3878/images/fa9195d9383d7564229022ce394c3e254dacaa9b525d5fd3883d9674bcf1d4af.png",
+            "snippet": "The latest news and top stories on artificial intelligence, including AI chatbots like Microsoft's ChatGPT, Apple's AI Chatbot and Google's Bard.",
+            "snippet_highlighted_words": [
+                "latest news",
+                "artificial intelligence",
+                "AI",
+                "AI"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "How AI chatbots work",
+                        "link": "https://www.nbcnews.com/data-graphics/chat-gpt-artificial-intelligence-how-chatbot-work-rcna83266"
+                    },
+                    {
+                        "title": "Lawsuit claims Character.AI is...",
+                        "link": "https://www.nbcnews.com/tech/characterai-lawsuit-florida-teen-death-rcna176791"
+                    },
+                    {
+                        "title": "A.I. Revolution",
+                        "link": "https://www.nbcnews.com/nightly-news/video/a-i-revolution-how-artificial-intelligence-is-helping-children-with-dyslexia-227631173993"
+                    }
+                ]
+            },
+            "source": "NBC News"
+        },
+        {
+            "position": 5,
+            "title": "Artificial intelligence | MIT News | Massachusetts Institute of ...",
+            "link": "https://news.mit.edu/topic/artificial-intelligence2",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://news.mit.edu/topic/artificial-intelligence2&ved=2ahUKEwiK2eO07MuLAxWHFFkFHV7XA6MQFnoECBsQAQ",
+            "displayed_link": "https://news.mit.edu \u203a topic \u203a artificial-intelligence2",
+            "favicon": "https://serpapi.com/searches/67b3c45581d1619d1a3d3878/images/fa9195d9383d7564229022ce394c3e2500fc19ea1221ecd82c349cea030beb8b.png",
+            "snippet": "With generative AI, MIT chemists quickly calculate 3D genomic structures. A new approach, which takes minutes rather than days, predicts how a specific DNA ...",
+            "snippet_highlighted_words": [
+                "AI"
+            ],
+            "source": "MIT News"
+        },
+        {
+            "position": 6,
+            "title": "Artificial Intelligence | Latest News, Photos & Videos",
+            "link": "https://www.wired.com/tag/artificial-intelligence/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.wired.com/tag/artificial-intelligence/&ved=2ahUKEwiK2eO07MuLAxWHFFkFHV7XA6MQFnoECCEQAQ",
+            "displayed_link": "https://www.wired.com \u203a tag \u203a artificial-intelligence",
+            "favicon": "https://serpapi.com/searches/67b3c45581d1619d1a3d3878/images/fa9195d9383d7564229022ce394c3e252df3f727ec975e5232833bbb3bb69edf.png",
+            "snippet": "Find the latest Artificial Intelligence news from WIRED. See related science and technology articles, photos, slideshows and videos.",
+            "snippet_highlighted_words": [
+                "latest Artificial Intelligence news"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "AI tools",
+                        "link": "https://www.wired.com/story/artificial-intelligence-tools-ai-unlocked-newsletter-season-two/"
+                    },
+                    {
+                        "title": "ChatGPT\u2019s AI Search Tool Is...",
+                        "link": "https://www.wired.com/story/chatgpt-ai-search-update-openai/"
+                    },
+                    {
+                        "title": "The Guy Behind the Fake AI...",
+                        "link": "https://www.wired.com/story/ai-halloween-parade-listing-dublin-interview/"
+                    }
+                ]
+            },
+            "source": "WIRED"
+        },
+        {
+            "position": 7,
+            "title": "Latest AI news and blog posts",
+            "link": "https://ai.google/latest-news/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ai.google/latest-news/&ved=2ahUKEwiK2eO07MuLAxWHFFkFHV7XA6MQFnoECC4QAQ",
+            "displayed_link": "https://ai.google \u203a latest-news",
+            "favicon": "https://serpapi.com/searches/67b3c45581d1619d1a3d3878/images/fa9195d9383d7564229022ce394c3e25f2b8a070796ca866090190f2ccc12454.png",
+            "snippet": "Read about the latest AI news and explore blogs for researchers, IT leaders, developers, and more.",
+            "snippet_highlighted_words": [
+                "latest AI news"
+            ],
+            "source": "Google AI"
+        },
+        {
+            "position": 8,
+            "title": "Artificial intelligence - BBC News",
+            "link": "https://www.bbc.com/news/topics/ce1qrvleleqt",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bbc.com/news/topics/ce1qrvleleqt&ved=2ahUKEwiK2eO07MuLAxWHFFkFHV7XA6MQFnoECDQQAQ",
+            "displayed_link": "https://www.bbc.com \u203a news \u203a topics",
+            "favicon": "https://serpapi.com/searches/67b3c45581d1619d1a3d3878/images/fa9195d9383d7564229022ce394c3e2539fa4feeff1b0975bd80706df805eff5.png",
+            "snippet": "Ex-Google boss fears for AI 'Bin Laden scenario'\u200b\u200b Eric Schmidt says AI technology could \"harm innocent people\" if it ends up in the wrong hands.",
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Meet the AI robot whose...",
+                        "link": "https://www.bbc.com/news/videos/cn4vwq0v9v5o"
+                    },
+                    {
+                        "title": "AI-Generated Child Abuse...",
+                        "link": "https://www.bbc.com/news/articles/cq6l241z5mjo"
+                    },
+                    {
+                        "title": "Watch",
+                        "link": "https://www.bbc.com/news/articles/cp3w35jd1gqo"
+                    },
+                    {
+                        "title": "Radiotherapy",
+                        "link": "https://www.bbc.com/news/articles/cew200d79nlo"
+                    }
+                ]
+            },
+            "source": "BBC"
+        }
+    ],
+    "perspectives": [
+        {
+            "author": "Julian Goldie SEO",
+            "source": "YouTube",
+            "thumbnails": [
+                "https://img.youtube.com/vi/5a4RUm8CZ1c/hqdefault.jpg"
+            ],
+            "title": "The Most INSANE AI News This Week! \ud83e\udd2f",
+            "link": "https://www.youtube.com/watch?v=5a4RUm8CZ1c",
+            "date": "29.6K+ views"
+        },
+        {
+            "author": "Eva Friedman",
+            "source": "The Seattle Times",
+            "thumbnails": [
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1Yd0zgcSVdmLxlnrOdu7Y-MD-hppKafJiMqjHrTpsdzqdpB62Im_2ah7t&usqp=CAI&s"
+            ],
+            "title": "AI has the potential to upend my hopes and dreams. That doesn't mean it should | Op-Ed",
+            "link": "https://www.seattletimes.com/opinion/ai-has-the-potential-to-upend-society-that-doesnt-mean-it-should/",
+            "date": "3 days ago"
+        },
+        {
+            "author": "Sabine Hossenfelder",
+            "source": "YouTube",
+            "thumbnails": [
+                "https://img.youtube.com/vi/KgcjOo4HAlg/hqdefault.jpg"
+            ],
+            "title": "\u201cI'm pretty terrified by the pace of AI development\u201d says OpenAI researcher who left company",
+            "link": "https://www.youtube.com/watch?v=KgcjOo4HAlg",
+            "date": "283.6K+ views"
+        },
+        {
+            "author": "TOBB AI",
+            "source": "Medium",
+            "thumbnails": [
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2KjfTqrI5VwIu2SfKfXrQOL6s-tfwxT52TwEBj8Hrsz26L6UH6a4ruJ1y&usqp=CAI&s"
+            ],
+            "title": "AI NEWS#46",
+            "link": "https://medium.com/@tobb_AI/ai-news-46-e8984f97e3a3",
+            "date": "4 hours ago"
+        },
+        {
+            "author": "Bloomberg Technology",
+            "source": "YouTube",
+            "thumbnails": [
+                "https://img.youtube.com/vi/YgwUlS_ZDag/hqdefault.jpg"
+            ],
+            "title": "AI Infrastructure Nearing 'Disequilibrium'",
+            "link": "https://www.youtube.com/watch?v=YgwUlS_ZDag",
+            "date": "14.1K+ views"
+        },
+        {
+            "author": "Mark McNeilly",
+            "source": "Substack",
+            "thumbnails": [
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzSSLn17GRwbMfjaz3F4CeOgrRy1-upDKchDsTKg4sPKs21PZvKPoBX14g&usqp=CAI&s"
+            ],
+            "title": "The New News in AI: 2/17/25 Edition",
+            "link": "https://markmcneilly.substack.com/p/the-new-news-in-ai-21725-edition",
+            "date": "10 hours ago"
+        },
+        {
+            "author": "Hans Nelson",
+            "source": "YouTube",
+            "thumbnails": [
+                "https://img.youtube.com/vi/pU9sHs2L7-0/hqdefault.jpg"
+            ],
+            "title": "This AI Breakthrough Is a HUGE Deal Right Now",
+            "link": "https://www.youtube.com/watch?v=pU9sHs2L7-0",
+            "date": "1.2K+ views"
+        },
+        {
+            "author": "Finextra Research",
+            "thumbnails": [
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaobPtDo88ZZB3vnkXZvisXSSNkodlR6t6y0Qseq6x&usqp=CAI&s"
+            ],
+            "title": "Rethinking AI: From Artificial to Assistive Intelligence: By Erica Andersen",
+            "link": "https://www.finextra.com/blogposting/27854/rethinking-ai-from-artificial-to-assistive-intelligence",
+            "date": "1 day ago"
+        },
+        {
+            "author": "The Globe and Mail",
+            "thumbnails": [
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu-qjtK8lXdcnYFM57Emz4lXA_ttEo6J7rLXlVsBjkDJnr5Wdrin1qwvaC&usqp=CAI&s"
+            ],
+            "title": "An upstart startup breaks the spell of AI",
+            "link": "https://www.theglobeandmail.com/opinion/editorials/article-an-upstart-startup-breaks-the-spell-of-ai/",
+            "date": "12 hours ago"
+        },
+        {
+            "author": "Lilmod",
+            "source": "Medium",
+            "thumbnails": [
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLd9STk-FC_k-LF1QhkYOPQGdsV64dpLGhWK2QxyGb7zOH1-LBnMfyJtLx&usqp=CAI&s"
+            ],
+            "title": "Automating Daily AI News with Perplexity API and Firebase | by Lilmod | Feb, 2025",
+            "link": "https://medium.com/@lilmod/automating-daily-ai-news-with-perplexity-api-and-firebase-7a54ddadd815",
+            "date": "15 hours ago"
+        },
+        {
+            "author": "NewsNation",
+            "source": "YouTube",
+            "thumbnails": [
+                "https://img.youtube.com/vi/Uy8bZW_xSA4/hqdefault.jpg"
+            ],
+            "title": "Tech expert \u2018not concerned\u2019 about AI takeover | NewsNation Live",
+            "link": "https://www.youtube.com/watch?v=Uy8bZW_xSA4",
+            "date": "1.5K+ views"
+        },
+        {
+            "author": "Al Jazeera English",
+            "source": "YouTube",
+            "thumbnails": [
+                "https://img.youtube.com/vi/qWxjoBgd84k/hqdefault.jpg"
+            ],
+            "title": "Impact of artificial intelligence: AI advancement changes businesses in unexpected ways",
+            "link": "https://www.youtube.com/watch?v=qWxjoBgd84k",
+            "date": "6K+ views"
+        }
+    ],
+    "top_stories": [
+        {
+            "title": "Insta360 Launches Their Latest AI Tracker Designed to Track Even More With Their Flow 2 Pro",
+            "link": "https://fstoppers.com/gear/insta360-launches-their-latest-ai-tracker-designed-track-even-more-their-flow-2-693016",
+            "source": "Fstoppers",
+            "date": "10 hours ago",
+            "thumbnail": "https://serpapi.com/searches/67b3c45581d1619d1a3d3878/images/d21b676ff561fb1381f9804712871d328ce22823f18c7788.jpeg"
+        },
+        {
+            "title": "Why Tempus AI, Inc. (TEM) Soared Last Week",
+            "link": "https://finance.yahoo.com/news/why-tempus-ai-inc-tem-124925734.html",
+            "source": "Yahoo Finance",
+            "date": "11 hours ago",
+            "thumbnail": "https://serpapi.com/searches/67b3c45581d1619d1a3d3878/images/d21b676ff561fb13e87d96ac7ff6a1f3d866ae2ab4215dbf.jpeg"
+        },
+        {
+            "title": "Musk: New Version of Grok AI Tool Launching Monday",
+            "link": "https://www.pymnts.com/artificial-intelligence-2/2025/musk-new-version-of-grok-ai-tool-launching-monday/",
+            "source": "PYMNTS.com",
+            "date": "1 day ago",
+            "thumbnail": "https://serpapi.com/searches/67b3c45581d1619d1a3d3878/images/d21b676ff561fb133b86934b8067e1b35a0479fd79749852.jpeg"
+        },
+        {
+            "title": "Weekend Roundup: Top 10 AI Stocks on Latest News and Ratings",
+            "link": "https://www.insidermonkey.com/blog/weekend-roundup-top-10-ai-stocks-on-latest-news-and-ratings-1453742/",
+            "source": "Insider Monkey",
+            "date": "2 days ago",
+            "thumbnail": "https://serpapi.com/searches/67b3c45581d1619d1a3d3878/images/d21b676ff561fb135c35d9d9f084e5b82c40dba561f359ee.jpeg"
+        }
+    ],
+    "top_stories_link": "https://www.google.com/search?sca_esv=77ef094ca66521b4&q=latest+news+in+AI&tbm=nws&source=univ&tbo=u&sa=X&ved=2ahUKEwiK2eO07MuLAxWHFFkFHV7XA6MQt8YBKAF6BAhAEAQ",
+    "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=latest+news+in+AI&tbm=nws",
+    "related_searches": [
+        {
+            "block_position": 1,
+            "query": "Latest news in ai today",
+            "link": "https://www.google.com/search?sca_esv=77ef094ca66521b4&q=Latest+news+in+ai+today&sa=X&ved=2ahUKEwiK2eO07MuLAxWHFFkFHV7XA6MQ1QJ6BAg3EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Latest+news+in+ai+today"
+        },
+        {
+            "block_position": 1,
+            "query": "AI news today live",
+            "link": "https://www.google.com/search?sca_esv=77ef094ca66521b4&q=AI+news+today+live&sa=X&ved=2ahUKEwiK2eO07MuLAxWHFFkFHV7XA6MQ1QJ6BAg1EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=AI+news+today+live"
+        },
+        {
+            "block_position": 1,
+            "query": "Future of AI news",
+            "link": "https://www.google.com/search?sca_esv=77ef094ca66521b4&q=Future+of+AI+news&sa=X&ved=2ahUKEwiK2eO07MuLAxWHFFkFHV7XA6MQ1QJ6BAgzEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Future+of+AI+news"
+        },
+        {
+            "block_position": 1,
+            "query": "Latest AI technology",
+            "link": "https://www.google.com/search?sca_esv=77ef094ca66521b4&q=Latest+AI+technology&sa=X&ved=2ahUKEwiK2eO07MuLAxWHFFkFHV7XA6MQ1QJ6BAgyEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Latest+AI+technology"
+        },
+        {
+            "block_position": 1,
+            "query": "AI news websites",
+            "link": "https://www.google.com/search?sca_esv=77ef094ca66521b4&q=AI+news+websites&sa=X&ved=2ahUKEwiK2eO07MuLAxWHFFkFHV7XA6MQ1QJ6BAgxEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=AI+news+websites"
+        },
+        {
+            "block_position": 1,
+            "query": "AI news generator",
+            "link": "https://www.google.com/search?sca_esv=77ef094ca66521b4&q=AI+news+generator&sa=X&ved=2ahUKEwiK2eO07MuLAxWHFFkFHV7XA6MQ1QJ6BAgvEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=AI+news+generator"
+        },
+        {
+            "block_position": 1,
+            "query": "News articles about AI taking over",
+            "link": "https://www.google.com/search?sca_esv=77ef094ca66521b4&q=News+articles+about+AI+taking+over&sa=X&ved=2ahUKEwiK2eO07MuLAxWHFFkFHV7XA6MQ1QJ6BAgtEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=News+articles+about+AI+taking+over"
+        },
+        {
+            "block_position": 1,
+            "query": "AI news Google",
+            "link": "https://www.google.com/search?sca_esv=77ef094ca66521b4&q=AI+news+Google&sa=X&ved=2ahUKEwiK2eO07MuLAxWHFFkFHV7XA6MQ1QJ6BAgsEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=AI+news+Google"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=latest+news+in+AI&sca_esv=77ef094ca66521b4&ei=VcSzZ8raO4ep5NoP3q6PmAo&start=10&sa=N&sstk=Af40H4WebDOfnDy3b1CN4sjAepXrIVNrL-Lw23iySESboyte1X1X4hf8WoP2p7z-tMj7_DgldjfDKdEWc6362ywdbDLoRvs45NMPeQ&ved=2ahUKEwiK2eO07MuLAxWHFFkFHV7XA6MQ8NMDegQIBxAW",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=latest+news+in+AI&sca_esv=77ef094ca66521b4&ei=VcSzZ8raO4ep5NoP3q6PmAo&start=10&sa=N&sstk=Af40H4WebDOfnDy3b1CN4sjAepXrIVNrL-Lw23iySESboyte1X1X4hf8WoP2p7z-tMj7_DgldjfDKdEWc6362ywdbDLoRvs45NMPeQ&ved=2ahUKEwiK2eO07MuLAxWHFFkFHV7XA6MQ8tMDegQIBxAE",
+            "3": "https://www.google.com/search?q=latest+news+in+AI&sca_esv=77ef094ca66521b4&ei=VcSzZ8raO4ep5NoP3q6PmAo&start=20&sa=N&sstk=Af40H4WebDOfnDy3b1CN4sjAepXrIVNrL-Lw23iySESboyte1X1X4hf8WoP2p7z-tMj7_DgldjfDKdEWc6362ywdbDLoRvs45NMPeQ&ved=2ahUKEwiK2eO07MuLAxWHFFkFHV7XA6MQ8tMDegQIBxAG",
+            "4": "https://www.google.com/search?q=latest+news+in+AI&sca_esv=77ef094ca66521b4&ei=VcSzZ8raO4ep5NoP3q6PmAo&start=30&sa=N&sstk=Af40H4WebDOfnDy3b1CN4sjAepXrIVNrL-Lw23iySESboyte1X1X4hf8WoP2p7z-tMj7_DgldjfDKdEWc6362ywdbDLoRvs45NMPeQ&ved=2ahUKEwiK2eO07MuLAxWHFFkFHV7XA6MQ8tMDegQIBxAI",
+            "5": "https://www.google.com/search?q=latest+news+in+AI&sca_esv=77ef094ca66521b4&ei=VcSzZ8raO4ep5NoP3q6PmAo&start=40&sa=N&sstk=Af40H4WebDOfnDy3b1CN4sjAepXrIVNrL-Lw23iySESboyte1X1X4hf8WoP2p7z-tMj7_DgldjfDKdEWc6362ywdbDLoRvs45NMPeQ&ved=2ahUKEwiK2eO07MuLAxWHFFkFHV7XA6MQ8tMDegQIBxAK",
+            "6": "https://www.google.com/search?q=latest+news+in+AI&sca_esv=77ef094ca66521b4&ei=VcSzZ8raO4ep5NoP3q6PmAo&start=50&sa=N&sstk=Af40H4WebDOfnDy3b1CN4sjAepXrIVNrL-Lw23iySESboyte1X1X4hf8WoP2p7z-tMj7_DgldjfDKdEWc6362ywdbDLoRvs45NMPeQ&ved=2ahUKEwiK2eO07MuLAxWHFFkFHV7XA6MQ8tMDegQIBxAM",
+            "7": "https://www.google.com/search?q=latest+news+in+AI&sca_esv=77ef094ca66521b4&ei=VcSzZ8raO4ep5NoP3q6PmAo&start=60&sa=N&sstk=Af40H4WebDOfnDy3b1CN4sjAepXrIVNrL-Lw23iySESboyte1X1X4hf8WoP2p7z-tMj7_DgldjfDKdEWc6362ywdbDLoRvs45NMPeQ&ved=2ahUKEwiK2eO07MuLAxWHFFkFHV7XA6MQ8tMDegQIBxAO",
+            "8": "https://www.google.com/search?q=latest+news+in+AI&sca_esv=77ef094ca66521b4&ei=VcSzZ8raO4ep5NoP3q6PmAo&start=70&sa=N&sstk=Af40H4WebDOfnDy3b1CN4sjAepXrIVNrL-Lw23iySESboyte1X1X4hf8WoP2p7z-tMj7_DgldjfDKdEWc6362ywdbDLoRvs45NMPeQ&ved=2ahUKEwiK2eO07MuLAxWHFFkFHV7XA6MQ8tMDegQIBxAQ",
+            "9": "https://www.google.com/search?q=latest+news+in+AI&sca_esv=77ef094ca66521b4&ei=VcSzZ8raO4ep5NoP3q6PmAo&start=80&sa=N&sstk=Af40H4WebDOfnDy3b1CN4sjAepXrIVNrL-Lw23iySESboyte1X1X4hf8WoP2p7z-tMj7_DgldjfDKdEWc6362ywdbDLoRvs45NMPeQ&ved=2ahUKEwiK2eO07MuLAxWHFFkFHV7XA6MQ8tMDegQIBxAS",
+            "10": "https://www.google.com/search?q=latest+news+in+AI&sca_esv=77ef094ca66521b4&ei=VcSzZ8raO4ep5NoP3q6PmAo&start=90&sa=N&sstk=Af40H4WebDOfnDy3b1CN4sjAepXrIVNrL-Lw23iySESboyte1X1X4hf8WoP2p7z-tMj7_DgldjfDKdEWc6362ywdbDLoRvs45NMPeQ&ved=2ahUKEwiK2eO07MuLAxWHFFkFHV7XA6MQ8tMDegQIBxAU"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=latest+news+in+AI&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=latest+news+in+AI&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=latest+news+in+AI&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=latest+news+in+AI&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=latest+news+in+AI&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=latest+news+in+AI&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=latest+news+in+AI&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=latest+news+in+AI&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=latest+news+in+AI&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=latest+news+in+AI&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=latest+news+in+AI&start=90"
+        }
+    }
+}

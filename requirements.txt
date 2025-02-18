@@ -1,0 +1,9 @@
+openai
+bs4
+ipykernel
+python-dotenv
+requests
+duckduckgo_search
+readability-lxml
+lxml_html_clean
+streamlit
