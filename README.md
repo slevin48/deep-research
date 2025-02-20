@@ -149,3 +149,9 @@ In this tutorial you’ll build an agent that combines a reasoning model (for ex
      - Incorporate vector search for more in‑depth retrieval (as mentioned in later chapters of "Programming GPTs").
    - Suggest exploring frameworks like LangChain for more robust chaining and tool integration, as described in the book.
 
+## Resources
+
+- [Building a fully local "deep researcher" with DeepSeek-R1](https://youtu.be/sGUjmyfof4Q?si=7fFUaQLqFcqWd-iy)
+- [Should You Adopt Pydantic AI? Deep Dive + Real Use Cases!](https://youtu.be/ferNt5JTaGQ?si=BV71P_XJcvTMJSRS)
+- [PydanticAI - Building a Research Agent](https://youtu.be/MkqkiJgnDxk?si=tMMCECITulJni8Bg)
+- [DeepSeek R1 for Structured Agents](https://youtu.be/LQPYWW3gqkQ?si=0f7Ya-N9wordnvmM)
